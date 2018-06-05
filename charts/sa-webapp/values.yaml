@@ -31,3 +31,4 @@ readinessProbe:
   successThreshold: 1
   timeoutSeconds: 1
 terminationGracePeriodSeconds: 10
+saLogicApiUrl: http://jx-staging-sa-logic.jx-staging.svc.cluster.local
